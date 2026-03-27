@@ -146,8 +146,6 @@
 
 # 3. Use case list
 
-본 프로젝트에서 발견할 수 있는 use cases는 다음과 같다.
-
 ## 3.1. Provide status data
 
 <div align="center">
