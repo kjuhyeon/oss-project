@@ -4,7 +4,7 @@
 ### Device Monitoring and Inspection Support System
 ### 1. Conceptualization
 
-<img src="/images/cover.png" alt="cover" width="600"/>
+<img src="/images/cover.png" alt="cover" width="500"/>
 
 </div>
 
@@ -126,7 +126,7 @@
 # 2. System context diagram
 
 <div align="center">
-  <img src="/images/system-context-diagram.png" alt="system-context-diagram" width="800"/>
+  <img src="/images/system-context-diagram.png" alt="system-context-diagram" width="700"/>
 </div>
 
 <br>
