@@ -172,7 +172,7 @@
 <table>
   <tr>
     <td align="center" width="180"><b>Actor</b></td>
-    <td width="720">User</td>
+    <td width="720">System</td>
   </tr>
   <tr>
     <td align="center"><b>Description</b></td>
