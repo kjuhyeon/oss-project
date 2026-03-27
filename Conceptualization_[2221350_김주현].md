@@ -139,9 +139,6 @@
 - **Query device list** : 장비 목록 조회  
 - **Query history data** : 이력 데이터 조회  
 - **Query statistics data** : 통계 데이터 조회  
-- **Device list** : 장비 목록  
-- **History data** : 이력 데이터  
-- **Statistics data** : 통계 데이터  
 
 ---
 
