@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 장비 상태 모니터링 및 점검 지원 시스템  
-### Device Monitoring and Inspection Support System
+### Device Status Monitoring and Inspection Support System
 ### 1. Conceptualization
 
 <img src="/images/cover.png" alt="cover" width="500"/>
@@ -46,6 +46,12 @@
     <td align="center">03/27/2026</td>
     <td align="center">1.0.0</td>
     <td align="center">First Documentation</td>
+    <td align="center">김주현</td>
+  </tr>
+   <tr>
+    <td align="center">05/02/2026</td>
+    <td align="center">1.1.0</td>
+    <td align="center">Revised title and use case</td>
     <td align="center">김주현</td>
   </tr>
 </table>
@@ -114,7 +120,7 @@
 ## 3) Target market
 
 - 여러 장비를 관리해야 하는 운용자  
-- 장비 등록, 점검 이력 관리, 통계 확인이 필요한 관리자  
+- 장비 등록, 점검 이력 관리, 통계 확인이 필요한 사용자  
 - 장비 상태 모니터링과 점검 지원 기능이 필요한 관리 환경
 
 </div>
@@ -170,11 +176,11 @@
 <table>
   <tr>
     <td align="center" width="180"><b>Actor</b></td>
-    <td width="720">System</td>
+    <td width="720">User</td>
   </tr>
   <tr>
     <td align="center"><b>Description</b></td>
-    <td>시스템이 이상 상태를 감지하면 User에게 경고를 전달한다.</td>
+    <td>User가 System에서 제공하는 이상 알림을 확인한다.</td>
   </tr>
 </table>
 
@@ -328,19 +334,19 @@
   </tr>
   <tr>
     <td align="center">Purpose</td>
-    <td>이상 상태가 발생했을 때 User에게 이를 알린다.</td>
+    <td>User가 이상 상태를 빠르게 확인할 수 있도록 한다.</td>
   </tr>
   <tr>
     <td align="center">Approach</td>
-    <td>시스템이 상태 데이터를 분석하고 이상이 감지되면 경고를 생성한다.</td>
+    <td>System이 상태 데이터를 확인하고 이상이 감지되면 User에게 알림을 표시한다.</td>
   </tr>
   <tr>
     <td align="center">Dynamics</td>
-    <td>이상 상태가 발생하는 경우</td>
+    <td>상태 데이터에서 이상 상태가 감지되는 경우</td>
   </tr>
   <tr>
     <td align="center">Goals</td>
-    <td>User가 점검이 필요한 상황을 빠르게 확인할 수 있도록 한다.</td>
+    <td>User가 점검이 필요한 장비를 빠르게 인지하고 대응할 수 있도록 한다.</td>
   </tr>
 </table>
 
