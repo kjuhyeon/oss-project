@@ -576,11 +576,11 @@
   </tr>
   <tr>
     <td align="center">Monitoring</td>
-    <td>장비 상태를 계속 확인하는 과정</td>
+    <td>장비의 현재 상태를 확인하는 것</td>
   </tr>
   <tr>
     <td align="center">Inspection</td>
-    <td>장비 상태를 점검하고 이상 여부를 판단하는 과정</td>
+    <td>장비 상태를 점검하고 결과를 기록하는 것</td>
   </tr>
   <tr>
     <td align="center">Status data</td>
